@@ -23,7 +23,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'o6YIw5uuDoQ1LEoutX8442OOjMBM',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'JYpnLZqVZO2PYdsAnn-_af9R_UJuHNFqRLhIRiD6fuE',
+      useTemplateId: '0PwVmzTaGwjc9-Z0ZuHfT2E_g_Swzz9JhPRJmtFzUho',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '02-03',
       festivals: [
@@ -31,10 +31,7 @@ const USER_CONFIG = {
         {
           type: '*生日', name: '小浣熊', year: '2000', date: '12-28',
         },
-        // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
-        {
-          type: '生日', name: '小浣熊', year: '2000', date: '02-03',
-        },
+
       ],
       // 我们在一起已经有xxxx天了的配置
       customizedDateList: [
