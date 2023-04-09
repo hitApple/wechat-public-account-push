@@ -23,7 +23,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'o6YIw5uuDoQ1LEoutX8442OOjMBM',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'TgNcX19ZjL91lhL7GjLPdCLX-9GH5Kr3QRLgJW-gqcQ',
+      useTemplateId: 'yzNE6ePuVc1SoS-vg_v38gKm2za5afzoE4RUHyy1LNY',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '02-03',
       festivals: [
@@ -39,15 +39,7 @@ const USER_CONFIG = {
         { keyword: 'love_day', date: '2022-07-31' },
       ],
     },
-    {
-      // 想要发送的人的名字
-      name: '小浣熊',
-      // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'o6YIw5uuDoQ1LEoutX8442OOjMBM',
-      // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: '9W8OtHS7YkrRra9FO9oarGuZ9RaCIdodr0MlyK4ckdU',
-      
-    },
+
   ],
 
 
