@@ -45,7 +45,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'o6YIw5uuDoQ1LEoutX8442OOjMBM',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'PXaV2n6anX73dkuRNoCVZgzqFXSSxecaePEwI-izUTQ',
+      useTemplateId: '9W8OtHS7YkrRra9FO9oarGuZ9RaCIdodr0MlyK4ckdU',
       
     },
   ],
